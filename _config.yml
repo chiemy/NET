@@ -1,6 +1,6 @@
 markdown: rdiscount
 permalink: /:title/
-url: /my_blog
+baseurl: /chiemy
 name: Chiemy
 author: Chiemy
 qq: 279747975
